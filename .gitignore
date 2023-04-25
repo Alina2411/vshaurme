@@ -1,4 +1,4 @@
 .idea
 .vscode
 .DS_Store
-/db/*.database.sqlite3
+.database.sqlite3
